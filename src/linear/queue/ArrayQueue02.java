@@ -15,6 +15,7 @@ public class ArrayQueue02 {
     //申请大小为n的数组空间
     public ArrayQueue02(int n){
         items = new String[n];
+        size = n;
     }
 
     //入队
