@@ -1,7 +1,7 @@
 package sort;
 
 /**
- * 归并排序的实现
+ * 归并排序的实现,稳定排序，复杂度为O（nlogn）
  */
 public class MergeSort {
     //a[]表示数组,给下标p到r之间的数组排序
