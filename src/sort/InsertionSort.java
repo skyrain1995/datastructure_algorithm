@@ -2,6 +2,7 @@ package sort;
 
 /**
  * 插入排序的实现，按从小到大排序 最坏复杂度为O(n^2)
+ * 插入排序的性能好于冒泡排序
  */
 public class InsertionSort {
     //插入排序,a[]表示数组，n表示数组大小
